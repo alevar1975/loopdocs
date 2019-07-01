@@ -28,7 +28,7 @@ Sie sollten den Beginn des Loopens in Phasen aufteilen. Fangen Sie zum Beispiel 
 Loop wird bisher als ein geteiltes Open-Source-Projekt betrieben. Um weitere, interessante Details über die Entwicklung von Loop zu erfahren, besuchen Sie diesen [History of Loop and LoopKit](https://medium.com/@loudnate/the-history-of-loop-and-loopkit-59b3caf13805) Beitrag (nur auf Englisch verfügbar), der von dem Loop Entwickler Nate Racklyeft verfasst wurde.  Das Projekt ist eine Herzensangelegenheit aller Beteiligter, das mithilfe ehrenamtlicher Mitarbeit unterhalten, entwickelt und verbessert wird.
 
 
-## Wo finden Sie was in den Docs
+## Wo finden Sie was in den Docs?
 
 * Nutzen Sie das Navigationsmenü im oberen Bereich, um Informationen, die Sie suchen, direkt zu finden.
 * Eine Inhaltsangabe von der aktuellen Webseite wird Ihnen immer links angezeigt.
