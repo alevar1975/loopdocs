@@ -1,44 +1,44 @@
-# General Loop FAQs
+# Allgemeine Loop FAQs
 
-There are lots of new users coming to Loop trying to find out information about Omnipod potentially being supported on Loop. You probably have a lot of questions.
+Eine Vielzahl von neuen Usern interessiert sich für Loop wegen des Loopnes mit dem OmniPod. Da gibt es sicherlich eine Menge an Fragen.
 
-## What is Loop?
+## Was ist Loop?
 
-Click on the image below to watch a short [Introduction to Loop video](https://youtu.be/qw_u1lqboCs).
+Klicken Sie augf das unten stehende Bild, um einen kurzen Clip über Loop anzusehen (nur auf Englisch verfügbar) [Introduction to Loop video](https://youtu.be/qw_u1lqboCs).
 
 <a href="https://youtu.be/qw_u1lqboCs" target="_blank"><img src="../img/intro-to-loop.png"  title="Introduction to Loop video" /></a>
 
-## What do I need to Loop?
+## Was benötige ich für die Nutzung von Loop?
 
-Loop has both hardware and software requirements. In general, to use Loop you need to have seven components.
+Loop benötigt sowohl Hardware- als auch Softwarekomponenten. Grundlegend benötigen Sie 7 Komponenten zum Betrieb von Loop.
 
-- Compatible insulin pump: [Medtronic](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/) or [Omnipod](https://loopkit.github.io/loopdocs/setup/requirements/omnipod-pump/)
-- [Compatible CGM](https://loopkit.github.io/loopdocs/setup/requirements/cgm/)
-- [RileyLink](https://loopkit.github.io/loopdocs/setup/requirements/rileylink/)
-- [Compatible iPhone/iPod Touch](https://loopkit.github.io/loopdocs/setup/requirements/iphone/)
-- [Apple computer running High Sierra/Mojave macOS 10.13.6/10.14 or later](https://loopkit.github.io/loopdocs/setup/requirements/computer/)
-- [Xcode (a free Apple application)](https://loopkit.github.io/loopdocs/setup/build/installing/#setup-xcode)
-- [Apple Developer Membership](https://loopkit.github.io/loopdocs/setup/requirements/appledev/)
+- eine kompatible insulinpumpe: [Medtronic](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/) oder [Omnipod](https://loopkit.github.io/loopdocs/setup/requirements/omnipod-pump/)
+- [ein kompatibles CGM](https://loopkit.github.io/loopdocs/setup/requirements/cgm/)
+- [den RileyLink](https://loopkit.github.io/loopdocs/setup/requirements/rileylink/)
+- [ein ompatibles iPhone/iPod Touch](https://loopkit.github.io/loopdocs/setup/requirements/iphone/)
+- [einen Apple Computer mit High Sierra/Mojave macOS 10.13.6/10.14 oder neuer](https://loopkit.github.io/loopdocs/setup/requirements/computer/)
+- [Xcode (ein kostenloses Apple Programm)](https://loopkit.github.io/loopdocs/setup/build/installing/#setup-xcode)
+- [eine Apple Developer Mitgliedschaft](https://loopkit.github.io/loopdocs/setup/requirements/appledev/)
 
 <p align="center">
 <img src="../img/loop_gear.jpg" width="500">
 </p>
 
-## Can I download Loop from the App store?
+## Kann ich Loop vom App store herunterladen?
 
-No. Loop is not available for download. You must build your own Loop app.
+Nein. Loop kann nicht heruntergeladen werden. Sie müssen sich Ihre eigene Loop-App herstellen.
 
-But don't worry, building your Loop app is actually quite easy and that's what these docs are all about. The harder part will be having the patience to read all the documents before you start. New Loop users are so excited to get started that they skip reading all the great info that these docs contain. So, as you begin the build...please include time to read the documents that follow what happens AFTER you successfully build your Loop app.
+Seien Sie nicht besorgt, das Herstellen der Loop-App ist eigentlich sehr einfach und die Loop Docs beschreiben den Weg genau. Es ist sicherlich mühsamer, die Geduld aufzubringen, sich die gesamte Dokumentation durchzulesen bevor Sie starten. Neue Loop-User sind so begeistert, dass Sie sofort beginnen möchten, ohne sich die detaillierten Informationen dieser Dokumentation durchzulesen. Wenn Sie die Loop-App herstellen, nehmen Sie sich bitte die Zeit durchzulesen, was Sie tun sollen, nachdem Sie Ihre Loop-App erfolgreich hergestellt haben.
 
-If you have any questions, these docs have a nice search feature in the dark blue top menu bar that may help you find your answers pretty quickly too.
+Sollten Fragen  unbeantwortet bleiben: Die Loop Docs haben eine gute Suche in der dunkelblauen Menüleiste oben, die Ihnen helfen kann, Ihre Fragen schnell zu beantworten.
 
-## Can I use an android phone for Loop?
+## Kann ich Loop mit Android nutzen?
 
-No, this is purely iPhone or iPod touch.
+Nein, Loop kann ausschließlich mit einem iPhone oder iPod touch genutzt werden.
 
-## Do I have to be "tech-smart" to build Loop?
+## Muss ich technisch versiert sein, um Loop herzustellen?
 
-No. You do not need any experience in code or computers to build Loop. If you have already owned an Apple computer and iPhone, you already have the required level of experience. Beyond that, simply read the directions slowly and diligently...all the information you will need are in these documents.
+Nein. Sie müssen keine Programmierkenntnise haben, um Loop herzustellen. Besitzen Sie bereits einen Apple Computer und ein iPhone, verfügen Sie bereits über die notwendigen Kenntnisse. Des Weiteren lesen Sie sich einfach die Dokumentation  ruhig und sorgfältig durch...alle erforderlichen Informationen sind in der Dokumentation enthalten.
 
 ## Is there a cheat sheet for school nurse to use?
 
