@@ -1,10 +1,10 @@
 # Allgemeine Loop FAQs
 
-Eine Vielzahl von neuen Usern interessiert sich für Loop wegen des Loopnes mit dem OmniPod. Da gibt es sicherlich eine Menge an Fragen.
+Eine Vielzahl von neuen Usern interessiert sich für Loop wegen des Loopens mit dem OmniPod. Da gibt es sicherlich eine Menge an Fragen.
 
 ## Was ist Loop?
 
-Klicken Sie augf das unten stehende Bild, um einen kurzen Clip über Loop anzusehen (nur auf Englisch verfügbar) [Introduction to Loop video](https://youtu.be/qw_u1lqboCs).
+Klicken Sie auf das unten stehende Bild, um einen kurzen Clip über Loop anzusehen (nur auf Englisch verfügbar) [Introduction to Loop video](https://youtu.be/qw_u1lqboCs).
 
 <a href="https://youtu.be/qw_u1lqboCs" target="_blank"><img src="../img/intro-to-loop.png"  title="Introduction to Loop video" /></a>
 
@@ -12,10 +12,10 @@ Klicken Sie augf das unten stehende Bild, um einen kurzen Clip über Loop anzuse
 
 Loop benötigt sowohl Hardware- als auch Softwarekomponenten. Grundlegend benötigen Sie 7 Komponenten zum Betrieb von Loop.
 
-- eine kompatible insulinpumpe: [Medtronic](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/) oder [Omnipod](https://loopkit.github.io/loopdocs/setup/requirements/omnipod-pump/)
+- eine kompatible Insulinpumpe: [Medtronic](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/) oder [Omnipod](https://loopkit.github.io/loopdocs/setup/requirements/omnipod-pump/)
 - [ein kompatibles CGM](https://loopkit.github.io/loopdocs/setup/requirements/cgm/)
 - [den RileyLink](https://loopkit.github.io/loopdocs/setup/requirements/rileylink/)
-- [ein ompatibles iPhone/iPod Touch](https://loopkit.github.io/loopdocs/setup/requirements/iphone/)
+- [ein kompatibles iPhone/iPod Touch](https://loopkit.github.io/loopdocs/setup/requirements/iphone/)
 - [einen Apple Computer mit High Sierra/Mojave macOS 10.13.6/10.14 oder neuer](https://loopkit.github.io/loopdocs/setup/requirements/computer/)
 - [Xcode (ein kostenloses Apple Programm)](https://loopkit.github.io/loopdocs/setup/build/installing/#setup-xcode)
 - [eine Apple Developer Mitgliedschaft](https://loopkit.github.io/loopdocs/setup/requirements/appledev/)
@@ -24,81 +24,77 @@ Loop benötigt sowohl Hardware- als auch Softwarekomponenten. Grundlegend benöt
 <img src="../img/loop_gear.jpg" width="500">
 </p>
 
-## Kann ich Loop vom App store herunterladen?
+## Kann ich Loop vom App Store herunterladen?
 
 Nein. Loop kann nicht heruntergeladen werden. Sie müssen sich Ihre eigene Loop-App herstellen.
 
-Seien Sie nicht besorgt, das Herstellen der Loop-App ist eigentlich sehr einfach und die Loop Docs beschreiben den Weg genau. Es ist sicherlich mühsamer, die Geduld aufzubringen, sich die gesamte Dokumentation durchzulesen bevor Sie starten. Neue Loop-User sind so begeistert, dass Sie sofort beginnen möchten, ohne sich die detaillierten Informationen dieser Dokumentation durchzulesen. Wenn Sie die Loop-App herstellen, nehmen Sie sich bitte die Zeit durchzulesen, was Sie tun sollen, nachdem Sie Ihre Loop-App erfolgreich hergestellt haben.
+Seien Sie nicht besorgt, das Herstellen der Loop-App ist eigentlich sehr einfach und die Loop Docs beschreiben den Weg genau. Es ist sicherlich mühsamer, die Geduld aufzubringen, sich die gesamte Dokumentation durchzulesen bevor Sie starten. Neue Loop-User sind so begeistert, dass Sie sofort beginnen möchten, ohne sich die detaillierten Informationen dieser Dokumentation durchzulesen. Während Sie die Loop-App herstellen, nehmen Sie sich bitte die Zeit durchzulesen, was Sie tun sollen, nachdem Sie Ihre Loop-App erfolgreich hergestellt haben.
 
 Sollten Fragen  unbeantwortet bleiben: Die Loop Docs haben eine gute Suche in der dunkelblauen Menüleiste oben, die Ihnen helfen kann, Ihre Fragen schnell zu beantworten.
 
 ## Kann ich Loop mit Android nutzen?
 
-Nein, Loop kann ausschließlich mit einem iPhone oder iPod touch genutzt werden.
+Nein, Loop kann ausschließlich mit einem iPhone oder iPod Touch genutzt werden.
 
 ## Muss ich technisch versiert sein, um Loop herzustellen?
 
 Nein. Sie müssen keine Programmierkenntnise haben, um Loop herzustellen. Besitzen Sie bereits einen Apple Computer und ein iPhone, verfügen Sie bereits über die notwendigen Kenntnisse. Des Weiteren lesen Sie sich einfach die Dokumentation  ruhig und sorgfältig durch...alle erforderlichen Informationen sind in der Dokumentation enthalten.
 
-## Is there a cheat sheet for school nurse to use?
 
-Sure, you can give this one a try. [School nurse's cheat sheet download](https://github.com/Kdisimone/images/raw/master/school_nurse.pdf)
+## Wie lange dauert es, bis die Loop-App hergestellt ist?
 
-## How long does it take to build Loop?
+Dazu kann man keine Aussage treffen, aber sicherlich einige Stunden von Anfang bis Ende, je nach dem, wo Sie anfangen.
 
-The answer is varied, but a few hours from start to finish, depending on where you are starting.
+Wenn Sie lieber die Herstellung auf mehrere Tage aufteilen möchten, sozusagen nach dem Prinzip eines Adventskalenders, können Sie die Arbeiten wie folgt aufteilen:
 
-If you'd rather break it up into several days of shorter efforts, the advent calendar way of building Loop can be done like this:
+Tag 1 (15 Minuten): Bestellen Sie den RileyLink auf [GetRileyLink.org](https://getrileylink.org)</br></br>
+Tag 2 (maximal 30 Minuten): Updaten Sie Ihre macOS-Version und installieren Sie Homebrew auf Ihrem Computer.</br></br>
+Tag 3 (20 Minuten): Legen Sie einen Apple Developer Account an (Warten Sie auf den Erhalt der Enrollment Confirmation E-Mail)</br></br>
+Tag 4 (1-2 Stunden): Laden Sie Xcode herunter und installieren Sie es (grundsätzlich ist dies ein Schritt, bei dem Sie ruhig andere Sachen unternehmen können, da das Herunterladen und Installieren vor sich hin tuckert) </br></br>
+Tag 5 (50 Minuten): Stellen Sie die Loop-App mithilfe von Xcode her</br>
 
-Day 1 (15 minutes): Order a RileyLink from [GetRileyLink.org](https://getrileylink.org)</br></br>
-Day 2 (30 minutes or less): Update macOS and install Homebrew on your computer.</br></br>
-Day 3 (20 minutes): Get an Apple Developer account (wait for enrollment confirmation email)</br></br>
-Day 4 (1-2 hours): Download and setup Xcode (basically this step is one that you can walk away from since the download just chugs along while you go do other things) </br></br>
-Day 5 (50 minutes): Build Loop app using Xcode</br>
+## Kostet Loop etwas?
 
-## Does Loop cost money?
+Ja, es gibt sicherlich auch versteckte Kosten neben der Kosten für die Insulinpumpe und das CGM.
 
-Yes, there are some costs, beyond the obvious costs of owning a pump and CGM.
+Das [RileyLink Kit](https://getrileylink.org/) kostet $150. Dies ist eine einmalige Ausgabe. Viele User nutzen weiterhin die RileyLinks, die sie vor drei Jahren bestellt haben, da die RileyLinks noch vollkommen in Takt sind. Die [Lipo Batterie](https://getrileylink.org/product/850lionbattery/) muss möglicherweise turnusmäßig nach mehrjährigem Gebrauch ausgewechselt werden. Die Kosten dafür betragen ungefähr $15. Wir empfehlen zwei RileyLinks zu erwerben, wenn finanziell möglich, um einen als Backup für alle Eventualitäten zu haben.
 
-The [RileyLink kit](https://getrileylink.org/) costs $150. This is a one-time cost and many people still have their original RileyLinks from nearly 3 years ago running just fine. There is a [lipo battery](https://getrileylink.org/product/850lionbattery/) that may need to periodically be swapped out after a couple years of use, and that is approximately $15. I highly recommend purchasing two RileyLinks when financially feasible, to have one as a backup in case of accidental damage.
+Die Apple Developer Lizenz kann kostenlos erworben werden, allerdings müssen Sie die Loop-App alle 7 Tage erneut herstellen, was auf Dauer ermüdend sein kann. Das Apple Developer Program für ein Jahr kostet €99 und ist eine gute Investition.
 
-The Apple Developer License can be done for free, however, you will have to rebuild your Loop app every 7 days. That could get very tedious. The $99 annual Apple developer program enrollment is an excellent investment.
+Es fallen keine weiteren Kosten, weder laufende noch einmalige, für den Betrieb von Loop an.
 
-There are no other costs, ongoing or initial, to Loop use.
+## Muss ich einen eigenen Apple Computer besitzen?
 
-## Do I need to own my own Apple computer?
+Sie müssen keinen eigenen Apple Computer besitzen, Sie müssen zumindest einen leihen. Es wäre wirklich ratsam, wenn Sie den Computer für längere Zeit beim Herstellen sowie zum Updaten ausleihen könnten [Loop Update](https://loopkit.github.io/loopdocs/build/update/updating/#when-to-update).
 
-You don't have to own your own Apple computer, but you do need to at least borrow one. It would be really good to have longer term ability to borrow that computer again for [updating Loop](https://loopkit.github.io/loopdocs/build/update/updating/#when-to-update) later, when needed.
+Sollten Sie einen Apple Computer leihen, sollten Sie sicherstellen, dass (1) zumindest High Sierra oder Mojave und (2) [das kostenlose Xcode installiert sind](https://developer.apple.com/xcode/) bevor Sie anfangen, die Loop-App herzustellen.  Das Updaten und Herunterladen von Xcode kann einige Stunden in Anspruch nehmen, abhängig von der Breitbandgeschwindigkeit, die Ihnen zur Verfügung steht ...am besten erledigen Sie diese Schritte so früh wie möglich, um Probleme bei der Appherstellung zu vermeiden.
 
-If you are borrowing an Apple computer, you should ask the person to (1) update to at least High Sierra or Mojave and (2) [download Xcode for free](https://developer.apple.com/xcode/) before you get together to build your Loop app.  The updates and download of Xcode can take a couple hours depending on the person's internet speed...so best to do those steps well ahead of time to save trouble.
+## Wie häufig benötige ich einen Apple Computer für Loop?
+Kurz gesagt, wenn (1) Sie die App zum ersten Mal herstellen und (2) mindestens einmal pro Jahr nach Herstellungszeitpunkt. (Bei einem kostenlosen Apple Developer Account benötigen Sie alle 7 Tage einen Computer.)
 
-## How often do I need to get on the computer for Loop?
+Die ausführlichere Antwort ist, dass der Loop-Code turnusmäßig upgedated wird, um neue Funktionen bereitzustellen und Fehler zu beheben.  Bei der Veröffentlichung der Updates benötigen Sie erneut Zugriff zu einem Apple Computer, um Ihre Loop-App upzudaten.  Loop Updates sind nicht im App Store erhältlich...stattdessen führen Sie selbst das Update [Update Anleitung hier](https://loopkit.github.io/loopdocs/setup/update/updating/) durch. Im Allgemeinen erscheinen einige Male pro Jahr Loop-Updates, die Sie installieren möchten.
 
-The short answer is (1) when you first build and (2) once per year minimum after that. (If you decide to use a free Apple Developer Account, you will need to get on the computer every 7 days.)
+## Kann ich eine VirtualMachine zur Herstellung nutzen?
 
-The longer answer is that Loop code is updated periodically to include new features and bug fixes.  When those updates are released, you'll need access to an Apple computer again to update your Loop app.  Loop updates are not available through the iPhone's app store...instead you do the app upate yourself with [update instructions here](https://loopkit.github.io/loopdocs/setup/update/updating/). In general, probably a few times a year there are updates to Loop released that you'd want to take the time to install.
+Ja, das können Sie. Diese Dokumentation enthält keine Anleitungen, wie Sie das mit einer VirtualMAchine bewältigen können. Sie müssen sich die Anleitung für den Gebrauch von VirtualMachines anderweitig besorgen.
 
-## Can I use a VirtualMachine to build?
+## Muss ich jedesmal eine neue Loop-App herstellen, wenn ich zwischen Medtronic- und Omnipodpumpe wechsele?
 
-Yes, you can. These documents will not provide instructions on how to do that however. You'll need to figure that part out on your own.
+Nein. Die Loop-App bietet die Möglichkeit zwischen den Pumpentypen zu wechseln.
 
-## Will I need to build a new Loop if I switch between Medtronic and Omnipod regularly?
+## Kann ich den Apple Developer Account einer anderen Person nutzen?
 
-No. Loop will have the option to move between different pump types from within the same Loop app.
+Technisch gesehen, ja...dennoch gibt es einige größere Nachteile. Ein Developer Account kann nur mit einer bestimmten Anzahl von Computern zur Appherstellung "verlinkt" werden. Jemand, der seine Developer Lizenz an viele weitere Personen "ausleiht" wird sicherlich bald die verfügbare Anzahl an verlinkbaren Computern überschreiten. In so einem Fall wird der Verleiher aufgefordert, Lizenz-Zertifikate auf einigen Computern zu entziehen (im wesentlichen ältere Zertifikate gegen neuere ausutauschen). Wird dies getan, hat der Verleiher wahrscheinlich die Loop-App auf seinem Computer vergessen. Sollte das Zertifikat auf Ihrem Computer entzogen werden (und dies kann ohne Bekanntgabe auf Ihrem Developer Portal geschehen), wird Ihre Loop-App sofort den Betrieb einstellen und sich nicht mehr öffnen lassen.
 
-## Can I use someone else's Apple Developer account?
+Ihre Loop-App wird ebenfalls sofort funktionsunfähig, falls Ihr Developer Account nicht verlängert wird und ausläuft. Ihre Loop Updates können ebenfalls nicht mehr hergestellt werden bis das Developer License Agreement Updates wieder verliehen wird.
 
-Technically, yes...however there are major drawbacks. The person's developer account can only be "linked" to a limited number of build computers. So one person "loaning out" their developer license to a lot of people will quickly exceed the number of allowed computers. In those cases, that person will be told they need to revoke the certificates on some computers (essentially dropping old ones to make room for new ones). When they do that, they may have forgotten about your Loop app on your computer. When they revoke your computer's certificate (and they can do that without you knowing through their developer portal), your Loop app will immediately stop working and not even open.
+Kurz gesagt,von allen Möglichkeiten, Geld zu sparen ...das Ausleihen eines anderen Developer Account ist die denkbar schlechteste Art, Geld zu sparen.
 
-You Loop app will also die immediately if their developer account is not renewed or expires. Your Loop updates will also not be able to be built unless that person maintains the developer license agreement updates.
+## Wie kann ich eine kompatible Pumpe finden? Anbieter?
 
-Moral of the story, out of all the ways to save money...borrowing someone's developer account is not a good place to save money.
+Es gibt eine [komplette Webseite über MDT Pumpen](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/) (nur auf Englisch verfügbar); wie man Pumopen findet, wie man Anbieter findet und ob Ihre Medtronic Pumpe kompatibel ist. Auf der Webseite finden Sie weitere Informationen.
 
-## How can I find a compatible pump? supplies?
-
-There is a [whole page about MDT pumps](https://loopkit.github.io/loopdocs/setup/requirements/mdt-pump/); how to find them, how to find supplies, and assessing whether your Medtronic pump is compatible. Go check out that page for more info.
-
-With the addition of omnipod support, you can also now use omnipod suppliers however you'd normally source them.
+Mithilfe des Omnipod Supports können Sie ebenfalls Omnipod Anbieter finden, die normalerweise einfach ausfindig zu machen sind.
 
 ## Can I pay someone else to do this?
 
